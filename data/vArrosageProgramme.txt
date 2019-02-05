@@ -1,0 +1,9 @@
+arrosageProgrammeActif=0
+pZ1=1
+pZ2=0
+pZ3=0
+pZ4=0
+pZ5=0
+nDP=5
+nH=14
+nM=30

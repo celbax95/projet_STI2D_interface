@@ -1,0 +1,9 @@
+temperature = 18
+humiditeZ1 = 24
+humiditeZ2 = 49
+humiditeZ3 = 74
+humiditeZ4 = 75
+humiditeZ5 = 100
+tempMax = 12
+tempMin = -2
+temps = 4

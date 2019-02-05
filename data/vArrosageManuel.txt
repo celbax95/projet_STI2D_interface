@@ -1,0 +1,7 @@
+arrosageManuelActif=1
+mZ1=1
+mZ2=1
+mZ3=1
+mZ4=0
+mZ5=0
+nDM=60

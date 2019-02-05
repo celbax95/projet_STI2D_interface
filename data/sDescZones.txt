@@ -1,0 +1,5 @@
+iEDZ[0]= 'palmier'
+iEDZ[1]= 'Pelouse a coté de la terrace versant nord'
+iEDZ[2]= '``Marre``'
+iEDZ[3]= 'Ceriser'
+iEDZ[4]= 'Palmier'

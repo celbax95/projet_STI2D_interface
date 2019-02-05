@@ -1,0 +1,4 @@
+secheresseActif= 1
+asp= 0
+sArrosageProgrammeActif= 0
+sArrosageHumiditeActif= 0
